@@ -1,0 +1,15 @@
+{
+  "url": "https://killaclock-demo.vercel.app/catalogo",
+  "fetchTime": "2026-11-08T06:03:56.056Z",
+  "formFactor": "mobile",
+  "scores": {
+    "performance": 97,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 66
+  },
+  "lcp": "2.6 s",
+  "cls": "0",
+  "tbt": "30 ms",
+  "seoNote": "seo<100 solo por robots noindex (demo)"
+}

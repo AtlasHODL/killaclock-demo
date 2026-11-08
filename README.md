@@ -29,3 +29,16 @@ npm run build && npm start
 - Los testimonios son texto de ejemplo, marcados como ilustrativos en la página.
 - El WhatsApp usa el teléfono publicado en el sitio (300 243 0050).
 - `robots.txt` bloquea indexación: es un demo, no el sitio del cliente.
+
+## Evidencia (2026-11-08)
+- Capturas de la versión en vivo (escritorio 1440 px y móvil 390 px): `docs/screenshots/live-{home,catalogo,producto}-{desktop,mobile}.png`.
+- Lighthouse 12 sobre la URL en vivo (resumen en `docs/lighthouse/*.json`):
+
+| Página | Modo | Rendimiento | Accesibilidad | Buenas prácticas | SEO |
+|---|---|---|---|---|---|
+| / | móvil | 92 | 100 | 100 | 66* |
+| /catalogo | móvil | 97 | 100 | 100 | 66* |
+| /producto/… | móvil | 95 | 100 | 100 | 66* |
+| / | escritorio | 100 | 100 | 100 | 66* |
+
+\* SEO baja únicamente por el `noindex` intencional del demo (auditoría "is-crawlable").
