@@ -2,7 +2,7 @@
 
 Demo comercial de una nueva web para **Killaclock** (relojería en Barranquilla, sitio actual: [killaclock.com.co](https://www.killaclock.com.co/)). Sirve para mostrarle al cliente cómo se vería su tienda con un diseño premium, rápido y pensado para vender por WhatsApp.
 
-**Demo en vivo:** _pendiente de deploy_
+**Demo en vivo:** https://killaclock-demo.vercel.app · Repo: https://github.com/AtlasHODL/killaclock-demo
 
 ## Qué incluye
 - **Home**: hero con producto real, marcas, destacados, catálogo con filtros, nosotros, garantía/envíos/pagos, testimonios (ilustrativos), CTA de WhatsApp y footer con datos reales.
