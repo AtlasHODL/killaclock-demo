@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Killaclock · Demo de rediseño web
 
-## Getting Started
+Demo comercial de una nueva web para **Killaclock** (relojería en Barranquilla, sitio actual: [killaclock.com.co](https://www.killaclock.com.co/)). Sirve para mostrarle al cliente cómo se vería su tienda con un diseño premium, rápido y pensado para vender por WhatsApp.
 
-First, run the development server:
+**Demo en vivo:** _pendiente de deploy_
 
+## Qué incluye
+- **Home**: hero con producto real, marcas, destacados, catálogo con filtros, nosotros, garantía/envíos/pagos, testimonios (ilustrativos), CTA de WhatsApp y footer con datos reales.
+- **/catalogo**: todos los relojes con filtros por marca, género, descuento y disponibilidad, y ordenamiento por precio.
+- **/producto/[handle]**: ficha con galería, precio y precio tachado, especificaciones, garantía y botón "Comprar por WhatsApp" con mensaje prellenado.
+- Datos reales: productos, precios, fotos, logo, dirección, teléfono, correo y redes se tomaron del sitio actual (ver `scripts/build-products.mjs` y `src/data/brand.ts`). No se inventaron productos ni precios.
+
+## Stack
+Next.js 16 (App Router, Cache Components) · React 19 · Tailwind CSS 4 · framer-motion · lucide-react. Todo es estático: no hay base de datos ni variables de entorno.
+
+## Cómo correrlo
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run dev      # http://localhost:3000
+npm run build && npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Actualizar el catálogo
+1. Descargar `https://www.killaclock.com.co/collections/<coleccion>/products.json?limit=24` a una carpeta (el sitio limita peticiones: espaciarlas ~60 s).
+2. Descargar las imágenes a `public/products/<handle>-<n>.<ext>` (el script solo referencia las que existen).
+3. `node scripts/build-products.mjs <carpeta>` regenera `src/data/products.json`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Supuestos del demo
+- Los testimonios son texto de ejemplo, marcados como ilustrativos en la página.
+- El WhatsApp usa el teléfono publicado en el sitio (300 243 0050).
+- `robots.txt` bloquea indexación: es un demo, no el sitio del cliente.
