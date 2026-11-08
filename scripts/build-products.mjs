@@ -10,10 +10,10 @@ if (!srcDir) { console.error("uso: node scripts/build-products.mjs <dir>"); proc
 const outDir = new URL("../public/products/", import.meta.url).pathname;
 mkdirSync(outDir, { recursive: true });
 
-const strip = (h = "") => h.replace(/<li>/g, "\n• ").replace(/<\/p>|<br\s*\/?>/g, "\n").replace(/<[^>]+>/g, "")
+const strip = (h = "") => h.replace(/\u00a0|&nbsp;/g, " ").replace(/<li>/g, "\n• ").replace(/<\/p>|<br\s*\/?>/g, "\n").replace(/<[^>]+>/g, "")
   .replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/\s*\n\s*/g, "\n").trim();
 const titleCase = (t) => t.toLowerCase().replace(/(^|\s|-)([a-záéíóúñ])/g, (m) => m.toUpperCase())
-  .replace(/\b([A-Z]{1,3}-?\d[\w-]*)\b/gi, (m) => m.toUpperCase()).replace(/\s+/g, " ").trim();
+  .replace(/\b([A-Z]{1,3}-?\d[\w-]*)\b/gi, (m) => m.toUpperCase()).replace(/\b(Prx|Pr|Nst|Tm|Gw)\b/g, (m) => m.toUpperCase()).replace(/\s+/g, " ").trim();
 
 const byHandle = new Map();
 for (const f of readdirSync(srcDir).filter((f) => f.endsWith(".json") && f !== "collections.json")) {
@@ -27,8 +27,12 @@ for (const f of readdirSync(srcDir).filter((f) => f.endsWith(".json") && f !== "
     const gender = tags.some((t) => /para ella|mujer|dama/.test(t)) || /DAMA|MUJER|WILDFLOWER|LADY|MINI WONDERLUST|ALLARA|ICONIC DAMA/.test(title) ? "mujer"
       : tags.some((t) => /para el\b|hombre|men\b/.test(t)) || /HOMBRE/.test(title) ? "hombre" : "unisex";
     const text = strip(p.body_html);
-    const specs = [...text.matchAll(/•\s*([^\n•]+)/g)].map((m) => m[1].trim()).filter((s) => !/año|gener/i.test(s));
-    const warranty = ((text.match(/Garantía\s*\n?•?\s*([^\n]+)/i) || [])[1] ?? "").replace(/^[:\s]+|[,\s]+$/g, "") || null;
+    const specs = [...text.matchAll(/•\s*([^\n•]+)/g)].map((m) => m[1].trim().replace(/[:\s]+$/, ""))
+      .filter((s) => s.length > 3 && s.length < 70 && !/año|mes|gener|no cubre|no aplica|uso inadecuado|garant/i.test(s));
+    const wm = text.match(/garant[ií]a[\s\S]{0,40}?(\d+\s*(?:años?|meses)[^.:\n]*)/i);
+    let warranty = wm ? wm[1].replace(/\s+(unicamente|únicamente)\b.*$/i, "").replace(/(\d+\s*(?:años?|meses))\s+y\s.*$/i, "$1").replace(/[,\s]+$/, "").trim() : null;
+    if (warranty && warranty === warranty.toUpperCase()) warranty = warranty.toLowerCase();
+    if (warranty) warranty = warranty.charAt(0).toUpperCase() + warranty.slice(1);
     const description = text.split("\n").find((l) => l.length > 60) ?? "";
     const images = [];
     p.images.slice(0, 3).forEach((img, i) => {

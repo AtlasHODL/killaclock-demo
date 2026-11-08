@@ -101,7 +101,7 @@
       "Material de la caja: Acero Inoxidable",
       "Color: Blanco"
     ],
-    "warranty": ": 2 años",
+    "warranty": "2 años",
     "tags": [
       "GUESS",
       "Para Ella",
@@ -130,7 +130,7 @@
     "gender": "mujer",
     "description": "",
     "specs": [],
-    "warranty": "1 año por defectos de fábrica en maquina,",
+    "warranty": "1 año por defectos de fábrica en maquina",
     "tags": [
       "GUESS",
       "GUESS DE MUJER",
@@ -166,14 +166,13 @@
     "gender": "hombre",
     "description": "RELOJ GUESS LEGACY W1049G2 Está diseñado para complementar cualquier estilo, la combinación del diseño clásico con la funcionalidad moderna garantiza durabilidad y confiabilidad.",
     "specs": [
-      "Generó: Hombre",
       "Movimiento: Cuarzo",
       "Resistencia al Agua: 100 MTS",
       "Material de la correa: Silicona",
       "Material de la caja: Acero Inoxidable",
       "Color: Azul"
     ],
-    "warranty": "1 año por defectos de fábrica en maquina,",
+    "warranty": "1 año por defectos de fábrica en maquina",
     "tags": [
       "Hombre",
       "Para el",
@@ -204,7 +203,7 @@
     "gender": "hombre",
     "description": "RELOJ GUESS CHAMP GW0639G3 Está diseñado para complementar cualquier estilo, la combinación del diseño clásico con la funcionalidad moderna garantiza durabilidad y confiabilidad.",
     "specs": [],
-    "warranty": "1 año por defectos de fábrica en maquina,",
+    "warranty": "1 año por defectos de fábrica en maquina",
     "tags": [
       "Hombre",
       "Para el",
@@ -235,7 +234,7 @@
     "gender": "hombre",
     "description": "RELOJ GUESS G-BOSSED GW0625G3 Está diseñado para complementar cualquier estilo, la combinación del diseño clásico con la funcionalidad moderna garantiza durabilidad y confiabilidad.",
     "specs": [],
-    "warranty": "1 año por defectos de fábrica en maquina,",
+    "warranty": "1 año por defectos de fábrica en maquina",
     "tags": [
       "Hombre",
       "Para el",
@@ -266,7 +265,7 @@
     "gender": "mujer",
     "description": "RELOJ GUESS ALLARA GW0604L2 Está diseñado para complementar cualquier estilo, la combinación del diseño clásico con la funcionalidad moderna garantiza durabilidad y confiabilidad.",
     "specs": [],
-    "warranty": "1 año por defectos de fábrica en maquina,",
+    "warranty": "1 año por defectos de fábrica en maquina",
     "tags": [
       "GUESS DAMA",
       "PARA DAMA",
@@ -296,7 +295,7 @@
     "gender": "hombre",
     "description": "RELOJ GUESS ASSET ANÁLOGO GW0575G2 Está diseñado para complementar cualquier estilo, la combinación del diseño clásico con la funcionalidad moderna garantiza durabilidad y confiabilidad.",
     "specs": [],
-    "warranty": "1 año por defectos de fábrica en maquina,",
+    "warranty": "1 año por defectos de fábrica en maquina",
     "tags": [
       "Hombre",
       "Para el",
@@ -327,7 +326,7 @@
     "gender": "hombre",
     "description": "RELOJ GUESS EMPIRE GW0489G2 Está diseñado para complementar cualquier estilo, la combinación del diseño clásico con la funcionalidad moderna garantiza durabilidad y confiabilidad.",
     "specs": [],
-    "warranty": "1 año por defectos de fábrica en maquina,",
+    "warranty": "1 año por defectos de fábrica en maquina",
     "tags": [
       "Hombre",
       "Para el",
@@ -422,31 +421,30 @@
     "gender": "mujer",
     "description": "RELOJ INVICTA WILDFLOWER 48226, desafía el mundo de la moda y el estimado con una creación única e innovadora en su diseño, funcionalidad y capacidad de adaptarse a todas las situaciones de la vida diaria.",
     "specs": [
-      "Resistencia al Agua (metros) : 30",
-      "Tipo de Cristal : Mineral",
-      "Cronógrafo : Ninguno",
-      "Calendario : Ninguno",
-      "Genero : Mujer",
-      "Color del Tablero : Plata",
-      "Material del Tablero : Latón",
-      "Tono de la Caja : Acero",
-      "Material de la Caja : Acero inoxidable",
-      "Tipo de Corona : :CrownType",
-      "Tipo de Piedra : Ninguno",
-      "Color Luminoso: Ninguno",
-      "Material Luminoso : Ninguno'",
-      "Tipo de Movimiento: Quartz",
-      "Hecho en Suiza : No",
-      "Componentes de Movimiento: Japón",
-      "Vendedor Movimiento : Tmi",
-      "Calibre Movimiento : Pc21j",
-      "Movimiento Joyas : No",
-      "Material del la Correa : Acero inoxidable",
-      "Color de la Correa : Acero",
-      "Largo de la Correa (mm) : 171",
-      "Tipo de Hebilla : Botón pulsador plegable",
-      "Intercambiable : No",
-      "Tipo de Cierre : Botón pulsador"
+      "Resistencia al Agua (metros) : 30",
+      "Tipo de Cristal : Mineral",
+      "Cronógrafo : Ninguno",
+      "Calendario : Ninguno",
+      "Color del Tablero : Plata",
+      "Material del Tablero : Latón",
+      "Tono de la Caja : Acero",
+      "Material de la Caja : Acero inoxidable",
+      "Tipo de Corona : :CrownType",
+      "Tipo de Piedra : Ninguno",
+      "Color Luminoso: Ninguno",
+      "Material Luminoso : Ninguno'",
+      "Tipo de Movimiento: Quartz",
+      "Hecho en Suiza : No",
+      "Componentes de Movimiento: Japón",
+      "Vendedor Movimiento : Tmi",
+      "Calibre Movimiento : Pc21j",
+      "Movimiento Joyas : No",
+      "Material del la Correa : Acero inoxidable",
+      "Color de la Correa : Acero",
+      "Largo de la Correa (mm) : 171",
+      "Tipo de Hebilla : Botón pulsador plegable",
+      "Intercambiable : No",
+      "Tipo de Cierre : Botón pulsador"
     ],
     "warranty": "3 Años de maquinaria (1 año por batería)",
     "tags": [
@@ -479,31 +477,30 @@
     "gender": "mujer",
     "description": "RELOJ INVICTA WILDFLOWER 48233, desafía el mundo de la moda y el estimado con una creación única e innovadora en su diseño, funcionalidad y capacidad de adaptarse a todas las situaciones de la vida diaria.",
     "specs": [
-      "Resistencia al Agua (metros) : 50",
-      "Tipo de Cristal : Flame fusion",
-      "Cronógrafo : Ninguno",
-      "Calendario : Ninguno",
-      "Genero : Mujer",
-      "Color del Tablero : Plata",
-      "Material del Tablero : Latón",
-      "Tono de la Caja : Oro rosa",
-      "Material de la Caja : Acero inoxidable",
-      "Tipo de Corona : :CrownType",
-      "Tipo de Piedra : Cristal",
-      "Color Luminoso: Blanco",
-      "Material Luminoso : Nuevo lite'",
-      "Tipo de Movimiento: Quartz",
-      "Hecho en Suiza : No",
-      "Componentes de Movimiento:",
-      "Vendedor Movimiento : Tmi",
-      "Calibre Movimiento : Pc21",
-      "Movimiento Joyas : No",
-      "Material del la Correa : Acero inoxidable",
-      "Color de la Correa : Oro rosa",
-      "Largo de la Correa (mm) : 168",
-      "Tipo de Hebilla : Pulsador plegable",
-      "Intercambiable :",
-      "Tipo de Cierre : Pulsador plegable"
+      "Resistencia al Agua (metros) : 50",
+      "Tipo de Cristal : Flame fusion",
+      "Cronógrafo : Ninguno",
+      "Calendario : Ninguno",
+      "Color del Tablero : Plata",
+      "Material del Tablero : Latón",
+      "Tono de la Caja : Oro rosa",
+      "Material de la Caja : Acero inoxidable",
+      "Tipo de Corona : :CrownType",
+      "Tipo de Piedra : Cristal",
+      "Color Luminoso: Blanco",
+      "Material Luminoso : Nuevo lite'",
+      "Tipo de Movimiento: Quartz",
+      "Hecho en Suiza : No",
+      "Componentes de Movimiento",
+      "Vendedor Movimiento : Tmi",
+      "Calibre Movimiento : Pc21",
+      "Movimiento Joyas : No",
+      "Material del la Correa : Acero inoxidable",
+      "Color de la Correa : Oro rosa",
+      "Largo de la Correa (mm) : 168",
+      "Tipo de Hebilla : Pulsador plegable",
+      "Intercambiable",
+      "Tipo de Cierre : Pulsador plegable"
     ],
     "warranty": "3 Años de maquinaria (1 año por batería)",
     "tags": [
@@ -710,7 +707,7 @@
   {
     "id": 7955648446511,
     "handle": "reloj-nautica-nst-napnsf305",
-    "title": "Reloj Hombre Nautica Nst Napnsf305",
+    "title": "Reloj Hombre Nautica NST Napnsf305",
     "rawTitle": "RELOJ HOMBRE NAUTICA NST NAPNSF305",
     "vendor": "NAUTICA",
     "sku": "NST NAPNSF305",
@@ -720,7 +717,7 @@
     "gender": "hombre",
     "description": "¡Adéntrate en el emocionante mundo de los relojes NAUTICA, donde la elegancia se encuentra con la aventura, y el estilo se fusiona con la exploración! Desde su inicio, NAUTICA ha sido un faro de inspiración marítima y un símbolo de la pasión por la vida al aire libre.",
     "specs": [],
-    "warranty": ": 1 año por maquinaria (1 por batería)",
+    "warranty": "1 año por maquinaria (1 por batería)",
     "tags": [
       "Nautica",
       "NAUTICA DE HOMBRE",
@@ -757,31 +754,30 @@
     "gender": "hombre",
     "description": "La colección Invicta Force produce cambios y hace que lo que alguna vez estuvo al alcance de unos pocos, sea asequible para todos. Comandado por movimientos automáticos o profesionales de cronógrafo de cuarzo alojados dentro de cajas de acero de grado quirúrgico, los relojes Invicta I-Force están preparados para la guerra y lista para la paz.",
     "specs": [
-      "Resistencia al Agua (metros) : 100",
-      "Tipo de Cristal : Flame fusion",
-      "Cronógrafo : 60 segundos",
-      "Calendario : Ninguna",
-      "Genero : Hombre",
-      "Color del Tablero : Negro",
-      "Material del Tablero : Metal",
-      "Tono de la Caja : Oro rosa",
-      "Material de la Caja : Acero inoxidable",
-      "Tipo de Corona : Empujar",
-      "Tipo de Piedra : Ninguna",
-      "Color Luminoso: Blanco",
-      "Material Luminoso : Tritnita'",
-      "Tipo de Movimiento: Quartz",
-      "Hecho en Suiza : No",
-      "Componentes de Movimiento: Japón",
-      "Vendedor Movimiento : Tmi",
-      "Calibre Movimiento : Vd54",
-      "Movimiento Joyas : No",
-      "Material del la Correa : Silicona, acero inoxidable",
-      "Color de la Correa : Negro, oro rosa",
-      "Largo de la Correa (mm) : 220",
-      "Tipo de Hebilla : Hebilla",
-      "Intercambiable :",
-      "Tipo de Cierre : Hebilla"
+      "Resistencia al Agua (metros) : 100",
+      "Tipo de Cristal : Flame fusion",
+      "Cronógrafo : 60 segundos",
+      "Calendario : Ninguna",
+      "Color del Tablero : Negro",
+      "Material del Tablero : Metal",
+      "Tono de la Caja : Oro rosa",
+      "Material de la Caja : Acero inoxidable",
+      "Tipo de Corona : Empujar",
+      "Tipo de Piedra : Ninguna",
+      "Color Luminoso: Blanco",
+      "Material Luminoso : Tritnita'",
+      "Tipo de Movimiento: Quartz",
+      "Hecho en Suiza : No",
+      "Componentes de Movimiento: Japón",
+      "Vendedor Movimiento : Tmi",
+      "Calibre Movimiento : Vd54",
+      "Movimiento Joyas : No",
+      "Material del la Correa : Silicona, acero inoxidable",
+      "Color de la Correa : Negro, oro rosa",
+      "Largo de la Correa (mm) : 220",
+      "Tipo de Hebilla : Hebilla",
+      "Intercambiable",
+      "Tipo de Cierre : Hebilla"
     ],
     "warranty": "3 años por maquinaria (1 año por batería)",
     "tags": [
@@ -818,31 +814,30 @@
     "gender": "hombre",
     "description": "La colección Invicta Force produce cambios y hace que lo que alguna vez estuvo al alcance de unos pocos, sea asequible para todos. Comandado por movimientos automáticos o profesionales de cronógrafo de cuarzo alojados dentro de cajas de acero de grado quirúrgico, los relojes Invicta I-Force están preparados para la guerra y lista para la paz.",
     "specs": [
-      "Resistencia al Agua (metros) : 100",
-      "Tipo de Cristal : Flame fusion",
-      "Cronógrafo : 60 segundos",
-      "Calendario : Ninguna",
-      "Genero : Hombre",
-      "Color del Tablero : Azul",
-      "Material del Tablero : Metal",
-      "Tono de la Caja : Plata",
-      "Material de la Caja : Acero inoxidable",
-      "Tipo de Corona : Empujar",
-      "Tipo de Piedra : Ninguna",
-      "Color Luminoso: Blanco",
-      "Material Luminoso : Tritnita'",
-      "Tipo de Movimiento: Quartz",
-      "Hecho en Suiza : No",
-      "Componentes de Movimiento: Japón",
-      "Vendedor Movimiento : Tmi",
-      "Calibre Movimiento : Vd54",
-      "Movimiento Joyas : No",
-      "Material del la Correa : Silicona, acero inoxidable",
-      "Color de la Correa : Azul, oro rosa",
-      "Largo de la Correa (mm) : 220",
-      "Tipo de Hebilla : Hebilla",
-      "Intercambiable :",
-      "Tipo de Cierre : Hebilla"
+      "Resistencia al Agua (metros) : 100",
+      "Tipo de Cristal : Flame fusion",
+      "Cronógrafo : 60 segundos",
+      "Calendario : Ninguna",
+      "Color del Tablero : Azul",
+      "Material del Tablero : Metal",
+      "Tono de la Caja : Plata",
+      "Material de la Caja : Acero inoxidable",
+      "Tipo de Corona : Empujar",
+      "Tipo de Piedra : Ninguna",
+      "Color Luminoso: Blanco",
+      "Material Luminoso : Tritnita'",
+      "Tipo de Movimiento: Quartz",
+      "Hecho en Suiza : No",
+      "Componentes de Movimiento: Japón",
+      "Vendedor Movimiento : Tmi",
+      "Calibre Movimiento : Vd54",
+      "Movimiento Joyas : No",
+      "Material del la Correa : Silicona, acero inoxidable",
+      "Color de la Correa : Azul, oro rosa",
+      "Largo de la Correa (mm) : 220",
+      "Tipo de Hebilla : Hebilla",
+      "Intercambiable",
+      "Tipo de Cierre : Hebilla"
     ],
     "warranty": "3 años por maquinaria (1 año por batería)",
     "tags": [
@@ -877,33 +872,32 @@
     "compareAtPrice": 1250000,
     "available": false,
     "gender": "mujer",
-    "description": "RELOJ INVICTA WILDFLOWERS 46342, representa la elegancia en la mujer convirtiéndose en el accesorio perfecto para la funcionalidad y el estilo. Con grandes toques de distinción será el mejor accesorio de tu vida diaria.",
+    "description": "RELOJ INVICTA WILDFLOWERS 46342, representa la elegancia en la mujer convirtiéndose en el accesorio perfecto para la funcionalidad y el estilo. Con grandes toques de distinción será el mejor accesorio de tu vida diaria.",
     "specs": [
-      "Resistencia al Agua (metros) : 30",
-      "Tipo de Cristal : Mineral",
-      "Cronógrafo : Ninguno",
-      "Calendario : Ninguno",
-      "Genero : Mujer",
-      "Color del Tablero : Oro",
-      "Material del Tablero : Latón",
-      "Tono de la Caja : Oro",
-      "Material de la Caja : Acero inoxidable",
-      "Tipo de Corona : :CrownType",
-      "Tipo de Piedra : Cristal",
-      "Color Luminoso: Ninguno",
-      "Material Luminoso : Ninguno'",
-      "Tipo de Movimiento: Quartz",
-      "Hecho en Suiza : No",
-      "Componentes de Movimiento: Japón",
-      "Vendedor Movimiento : Tmi",
-      "Calibre Movimiento : Pc21j",
-      "Movimiento Joyas : No",
-      "Material del la Correa : Acero inoxidable",
-      "Color de la Correa : Oro",
-      "Largo de la Correa (mm) : 170",
-      "Tipo de Hebilla : Botón pulsador plegable",
-      "Intercambiable : No",
-      "Tipo de Cierre : Botón pulsador"
+      "Resistencia al Agua (metros) : 30",
+      "Tipo de Cristal : Mineral",
+      "Cronógrafo : Ninguno",
+      "Calendario : Ninguno",
+      "Color del Tablero : Oro",
+      "Material del Tablero : Latón",
+      "Tono de la Caja : Oro",
+      "Material de la Caja : Acero inoxidable",
+      "Tipo de Corona : :CrownType",
+      "Tipo de Piedra : Cristal",
+      "Color Luminoso: Ninguno",
+      "Material Luminoso : Ninguno'",
+      "Tipo de Movimiento: Quartz",
+      "Hecho en Suiza : No",
+      "Componentes de Movimiento: Japón",
+      "Vendedor Movimiento : Tmi",
+      "Calibre Movimiento : Pc21j",
+      "Movimiento Joyas : No",
+      "Material del la Correa : Acero inoxidable",
+      "Color de la Correa : Oro",
+      "Largo de la Correa (mm) : 170",
+      "Tipo de Hebilla : Botón pulsador plegable",
+      "Intercambiable : No",
+      "Tipo de Cierre : Botón pulsador"
     ],
     "warranty": "3 Años de maquinaria (1 año por batería)",
     "tags": [
@@ -954,5 +948,490 @@
       }
     ],
     "sourceUrl": "https://www.killaclock.com.co/products/reloj-pro-diver-hombre-26975"
+  },
+  {
+    "id": 8229553569839,
+    "handle": "reloj-dama-tissot-pr-100-t150-210-33-111-00",
+    "title": "Reloj Dama Tissot PR 100 T150.210.33.111.00",
+    "rawTitle": "RELOJ DAMA TISSOT PR 100 T150.210.33.111.00",
+    "vendor": "TISSOT",
+    "sku": "T150.210.33.111.00",
+    "price": 3153600,
+    "compareAtPrice": 3784320,
+    "available": false,
+    "gender": "mujer",
+    "description": "Tissot es la única marca en el mundo que combina artesanía de precisión Suiza y la innovación con calidad excepcional a un precio justo.",
+    "specs": [],
+    "warranty": null,
+    "tags": [
+      "Dama",
+      "PARA DAMA",
+      "Para Ella",
+      "RELOJ TISSOT",
+      "TISSOT"
+    ],
+    "images": [
+      {
+        "src": "/products/reloj-dama-tissot-pr-100-t150-210-33-111-00-1.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/T150.210.33.111.00WEB.webp?v=1775420150"
+      },
+      {
+        "src": "/products/reloj-dama-tissot-pr-100-t150-210-33-111-00-2.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/QW_47d3e512-fa72-4af0-9a13-e8e5d91536be.webp?v=1775498144"
+      }
+    ],
+    "sourceUrl": "https://www.killaclock.com.co/products/reloj-dama-tissot-pr-100-t150-210-33-111-00"
+  },
+  {
+    "id": 8054131621935,
+    "handle": "reloj-hombre-tissot-t-race-t141-417-37-051-00",
+    "title": "Reloj Hombre Tissot T-Race T141.417.37.051.00",
+    "rawTitle": "RELOJ HOMBRE TISSOT T-RACE T141.417.37.051.00",
+    "vendor": "TISSOT",
+    "sku": "T141.417.37.051.00",
+    "price": 3400000,
+    "compareAtPrice": 3610000,
+    "available": true,
+    "gender": "hombre",
+    "description": "Reloj Tissot T141.417.37.051.00 T-Race para hombre, tamaño de la caja 45 mm de acero inoxidable oro rosa, pulso de silicona / hebilla, color negro, cristal zafiro, resistencia al agua hasta 100 metros.",
+    "specs": [
+      "Material: silicona/acero",
+      "Agua: hasta 100 metros.",
+      "Movimiento: Cuarzo",
+      "Importado de: Suiza"
+    ],
+    "warranty": "24 meses sobre maquinaria",
+    "tags": [
+      "Hombre",
+      "ORO ROSA",
+      "Para el",
+      "para hombre",
+      "reloj de hombre",
+      "RELOJ TISSOT",
+      "T-RACE",
+      "TISSOT",
+      "TISSOT DE HOMBRE"
+    ],
+    "images": [
+      {
+        "src": "/products/reloj-hombre-tissot-t-race-t141-417-37-051-00-1.png",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/T141.417.37.051.00.png?v=1757282299"
+      },
+      {
+        "src": "/products/reloj-hombre-tissot-t-race-t141-417-37-051-00-2.png",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/T141.417.37.051.00_2.png?v=1757282299"
+      }
+    ],
+    "sourceUrl": "https://www.killaclock.com.co/products/reloj-hombre-tissot-t-race-t141-417-37-051-00"
+  },
+  {
+    "id": 7753791635503,
+    "handle": "reloj-tissot-classic-dream-hombre-t137-410-11-031-00",
+    "title": "Reloj Tissot PRX Hombre T137.410.11.031.00",
+    "rawTitle": "RELOJ TISSOT PRX HOMBRE T137.410.11.031.00",
+    "vendor": "TISSOT",
+    "sku": "RELOJ TISSOT PRX T137.410.11.031.00",
+    "price": 2279300,
+    "compareAtPrice": 2478000,
+    "available": true,
+    "gender": "hombre",
+    "description": "",
+    "specs": [],
+    "warranty": "2 Años Garantía de Fabricación",
+    "tags": [
+      "Hombre",
+      "MotoGP",
+      "Para el",
+      "para hombre",
+      "reloj de hombre",
+      "RELOJ TISSOT",
+      "T-RACE",
+      "TISSOT",
+      "TISSOT DE HOMBRE"
+    ],
+    "images": [
+      {
+        "src": "/products/reloj-tissot-classic-dream-hombre-t137-410-11-031-00-1.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/TISSOTPRXT137.410.11.031.00.webp?v=1719527807"
+      }
+    ],
+    "sourceUrl": "https://www.killaclock.com.co/products/reloj-tissot-classic-dream-hombre-t137-410-11-031-00"
+  },
+  {
+    "id": 8324998397999,
+    "handle": "reloj-dama-tissot-prx-t141-817-37-501-00",
+    "title": "Reloj Dama Tissot PRX T141.817.37.501.00",
+    "rawTitle": "RELOJ DAMA TISSOT PRX T141.817.37.501.00",
+    "vendor": "TISSOT",
+    "sku": "T141.817.37.501.00",
+    "price": 3890000,
+    "compareAtPrice": null,
+    "available": true,
+    "gender": "mujer",
+    "description": "Detalles de la caja:Bisel robusto, negro se asemeja a un disco de freno, los pulsadores se inspiran en los manillares, y las aletas de refrigeración de un motor se reproducen en el lateral de la caja.",
+    "specs": [
+      "Importado de: Suiza"
+    ],
+    "warranty": "24 meses sobre maquinaria",
+    "tags": [
+      "Para Ella",
+      "reloj de hombre",
+      "RELOJ TISSOT",
+      "TISSOT",
+      "TISSOT DE MUJER",
+      "TISSOT PRX"
+    ],
+    "images": [
+      {
+        "src": "/products/reloj-dama-tissot-prx-t141-817-37-501-00-1.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/T141.817.37.501.00WEB.webp?v=1782769176"
+      },
+      {
+        "src": "/products/reloj-dama-tissot-prx-t141-817-37-501-00-2.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/DELIWEB.webp?v=1782769176"
+      }
+    ],
+    "sourceUrl": "https://www.killaclock.com.co/products/reloj-dama-tissot-prx-t141-817-37-501-00"
+  },
+  {
+    "id": 8324997677103,
+    "handle": "reloj-hombre-tissot-t-race-t141-417-37-061-00",
+    "title": "Reloj Hombre Tissot T-Race T141.417.37.061.00",
+    "rawTitle": "RELOJ HOMBRE TISSOT T-RACE T141.417.37.061.00",
+    "vendor": "TISSOT",
+    "sku": "T141.417.37.061.00",
+    "price": 3336000,
+    "compareAtPrice": 4596000,
+    "available": true,
+    "gender": "hombre",
+    "description": "Tissot se ha inspirado en su colaboración con el motociclismo para crear un reloj que refleja el dinamismo de las motocicletas y la emoción de este deporte. El reloj es hermético hasta una presión de 10 bares (100 m), está equipado con un movimiento de cronógrafo de cuarzo y manecillas de horas y minutos recubiertas de SuperlumiNova.",
+    "specs": [
+      "Diámetro: 45 mm",
+      "Movimiento de cuarzo suizo",
+      "Caja de acero inoxidable 316L con revestimiento de PVD negro",
+      "Resistente al agua hasta una presión de 10 bar (100 m/330 pies)"
+    ],
+    "warranty": "1 año por maquinaria",
+    "tags": [
+      "Hombre",
+      "Para el",
+      "para hombre",
+      "reloj de hombre",
+      "RELOJ TISSOT",
+      "T-RACE",
+      "TISSOT",
+      "TISSOT DE HOMBRE"
+    ],
+    "images": [
+      {
+        "src": "/products/reloj-hombre-tissot-t-race-t141-417-37-061-00-1.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/T141.417.37.061.001WER.webp?v=1782768512"
+      },
+      {
+        "src": "/products/reloj-hombre-tissot-t-race-t141-417-37-061-00-2.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/46129_56_WEB.webp?v=1782845893"
+      }
+    ],
+    "sourceUrl": "https://www.killaclock.com.co/products/reloj-hombre-tissot-t-race-t141-417-37-061-00"
+  },
+  {
+    "id": 8324995514415,
+    "handle": "reloj-hombre-tissot-prx-t137-410-11-051-00",
+    "title": "Reloj Hombre Tissot PRX T137.410.11.051.00",
+    "rawTitle": "RELOJ HOMBRE TISSOT PRX T137.410.11.051.00",
+    "vendor": "TISSOT",
+    "sku": "T137.410.11.051.00",
+    "price": 2610000,
+    "compareAtPrice": null,
+    "available": true,
+    "gender": "hombre",
+    "description": "Tissot PRX, el reloj para quienes sienten pasión por el diseño y un ojo para el ingenio. Descubre ahora el nuevo Tissot PRX: su diseño evocador y fino lo convierte en un imprescindible para los amantes del diseño.",
+    "specs": [
+      "Diámetro: 40 mm",
+      "Caja de acero inoxidable 316L",
+      "Movimiento de cuarzo suizo",
+      "Cristal de zafiro resistente a los arañazos",
+      "Pulsera intercambiable de liberación rápida",
+      "Importado de: Suiza"
+    ],
+    "warranty": "24 meses sobre maquinaria",
+    "tags": [
+      "Hombre",
+      "Para el",
+      "para hombre",
+      "reloj de hombre",
+      "RELOJ TISSOT",
+      "TISSOT",
+      "TISSOT DE HOMBRE",
+      "TISSOT PRX"
+    ],
+    "images": [
+      {
+        "src": "/products/reloj-hombre-tissot-prx-t137-410-11-051-00-1.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/46129_52_WEB.webp?v=1782768196"
+      },
+      {
+        "src": "/products/reloj-hombre-tissot-prx-t137-410-11-051-00-2.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/46129_57_EW.webp?v=1782846140"
+      }
+    ],
+    "sourceUrl": "https://www.killaclock.com.co/products/reloj-hombre-tissot-prx-t137-410-11-051-00"
+  },
+  {
+    "id": 8324994367535,
+    "handle": "reloj-hombre-tissot-prx-t137-410-11-041-00",
+    "title": "Reloj Hombre Tissot PRX T137.410.11.041.00",
+    "rawTitle": "RELOJ HOMBRE TISSOT PRX T137.410.11.041.00",
+    "vendor": "TISSOT",
+    "sku": "T137.410.11.041.00",
+    "price": 2610000,
+    "compareAtPrice": null,
+    "available": true,
+    "gender": "hombre",
+    "description": "RELOJ HOMBRE TISSOT PRX T137.410.11.041.00 una pieza análoga que combina sofisticación y funcionalidad. Su cristal de zafiro ofrece resistencia y claridad, mientras que su diseño plateado se adapta a cualquier ocasión. Con garantía de 2 años y resistencia al agua, es el complemento perfecto para el hombre moderno.",
+    "specs": [
+      "Importado de: Suiza"
+    ],
+    "warranty": "2 años",
+    "tags": [
+      "Hombre",
+      "Para el",
+      "para hombre",
+      "reloj de hombre",
+      "RELOJ TISSOT",
+      "TISSOT",
+      "TISSOT DE HOMBRE",
+      "TISSOT PRX"
+    ],
+    "images": [
+      {
+        "src": "/products/reloj-hombre-tissot-prx-t137-410-11-041-00-1.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/T137.410.11.041.00WET.webp?v=1782767773"
+      },
+      {
+        "src": "/products/reloj-hombre-tissot-prx-t137-410-11-041-00-2.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/46129_51_WEB.webp?v=1782767905"
+      }
+    ],
+    "sourceUrl": "https://www.killaclock.com.co/products/reloj-hombre-tissot-prx-t137-410-11-041-00"
+  },
+  {
+    "id": 8324993318959,
+    "handle": "reloj-hombre-tissot-prx-t137-410-11-091-01",
+    "title": "Reloj Hombre Tissot PRX T137.410.11.091.01",
+    "rawTitle": "RELOJ HOMBRE TISSOT PRX T137.410.11.091.01",
+    "vendor": "TISSOT",
+    "sku": "T137.410.11.091.01",
+    "price": 3310000,
+    "compareAtPrice": null,
+    "available": true,
+    "gender": "hombre",
+    "description": "RELOJ HOMBRE TISSOT PRX T137.410.11.091.01  una pieza análoga que combina sofisticación y funcionalidad. Su cristal de zafiro ofrece resistencia y claridad, mientras que su diseño plateado se adapta a cualquier ocasión. Con garantía de 2 años y resistencia al agua, es el complemento perfecto para el hombre moderno.",
+    "specs": [
+      "Importado de: Suiza"
+    ],
+    "warranty": "2 años",
+    "tags": [
+      "Hombre",
+      "Para el",
+      "para hombre",
+      "reloj de hombre",
+      "RELOJ TISSOT",
+      "TISSOT",
+      "TISSOT DE HOMBRE",
+      "TISSOT PRX"
+    ],
+    "images": [
+      {
+        "src": "/products/reloj-hombre-tissot-prx-t137-410-11-091-01-1.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/T137.410.11.091.01WEB.webp?v=1782767027"
+      },
+      {
+        "src": "/products/reloj-hombre-tissot-prx-t137-410-11-091-01-2.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/T137.410.11.091.01_YUIU.webp?v=1782767191"
+      }
+    ],
+    "sourceUrl": "https://www.killaclock.com.co/products/reloj-hombre-tissot-prx-t137-410-11-091-01"
+  },
+  {
+    "id": 8237021233199,
+    "handle": "reloj-hombre-tissot-t-race-t141-807-37-051-00",
+    "title": "Reloj Hombre Tissot T-Race T141.807.37.051.00",
+    "rawTitle": "RELOJ HOMBRE TISSOT T-RACE T141.807.37.051.00",
+    "vendor": "TISSOT",
+    "sku": "T141.807.37.051.00",
+    "price": 4700000,
+    "compareAtPrice": 5640000,
+    "available": true,
+    "gender": "hombre",
+    "description": "Tissot, marca Suiza desde 1853. Su lema \"Innovadores por tradición\". Tissot es la única marca en el mundo que combina artesanía de precisión Suiza y la innovación con calidad excepcional a un precio justo.",
+    "specs": [
+      "Importado de: Suiza"
+    ],
+    "warranty": "24 meses sobre maquinaria",
+    "tags": [
+      "Para el",
+      "reloj de hombre",
+      "RELOJ TISSOT",
+      "TISSOT"
+    ],
+    "images": [
+      {
+        "src": "/products/reloj-hombre-tissot-t-race-t141-807-37-051-00-1.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/t141.807.37.051.00webp.webp?v=1776269816"
+      },
+      {
+        "src": "/products/reloj-hombre-tissot-t-race-t141-807-37-051-00-2.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/OP.webp?v=1776270029"
+      }
+    ],
+    "sourceUrl": "https://www.killaclock.com.co/products/reloj-hombre-tissot-t-race-t141-807-37-051-00"
+  },
+  {
+    "id": 8229568413743,
+    "handle": "reloj-dama-tissot-ballade-t156-210-22-031-01",
+    "title": "Reloj Dama Tissot Ballade T156.210.22.031.01",
+    "rawTitle": "RELOJ DAMA TISSOT BALLADE T156.210.22.031.01",
+    "vendor": "TISSOT",
+    "sku": "T156.210.22.031.01",
+    "price": 2489000,
+    "compareAtPrice": 2890000,
+    "available": true,
+    "gender": "mujer",
+    "description": "Tissot es la única marca en el mundo que combina artesanía de precisión Suiza y la innovación con calidad excepcional a un precio justo.",
+    "specs": [],
+    "warranty": "2 años de Garantía",
+    "tags": [
+      "Dama",
+      "PARA DAMA",
+      "Para Ella",
+      "RELOJ TISSOT",
+      "TISSOT"
+    ],
+    "images": [
+      {
+        "src": "/products/reloj-dama-tissot-ballade-t156-210-22-031-01-1.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/WERTYY.webp?v=1775420779"
+      },
+      {
+        "src": "/products/reloj-dama-tissot-ballade-t156-210-22-031-01-2.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/caja_festina_7_gf.webp?v=1775421303"
+      }
+    ],
+    "sourceUrl": "https://www.killaclock.com.co/products/reloj-dama-tissot-ballade-t156-210-22-031-01"
+  },
+  {
+    "id": 8229534924847,
+    "handle": "reloj-hombre-tissot-pr-100-t150-210-21-111-00",
+    "title": "Reloj Dama Tissot PR 100 T150.210.21.111.00",
+    "rawTitle": "RELOJ DAMA TISSOT PR 100 T150.210.21.111.00",
+    "vendor": "TISSOT",
+    "sku": "T150.210.21.111.00",
+    "price": 2944800,
+    "compareAtPrice": 3533760,
+    "available": true,
+    "gender": "mujer",
+    "description": "Tissot es la única marca en el mundo que combina artesanía de precisión Suiza y la innovación con calidad excepcional a un precio justo.",
+    "specs": [],
+    "warranty": null,
+    "tags": [
+      "PARA DAMA",
+      "Para Ella",
+      "regalo para ella",
+      "RELOJ TISSOT",
+      "TISSOT"
+    ],
+    "images": [
+      {
+        "src": "/products/reloj-hombre-tissot-pr-100-t150-210-21-111-00-1.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/RelojTissotPR100T150.210.21.111.00WEB.webp?v=1775419660"
+      },
+      {
+        "src": "/products/reloj-hombre-tissot-pr-100-t150-210-21-111-00-2.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/UIU.webp?v=1775508949"
+      }
+    ],
+    "sourceUrl": "https://www.killaclock.com.co/products/reloj-hombre-tissot-pr-100-t150-210-21-111-00"
+  },
+  {
+    "id": 8229530992687,
+    "handle": "reloj-hombre-tissot-t-race-t141-417-27-041-00",
+    "title": "Reloj Hombre Tissot T-Race T141.417.27.041.00",
+    "rawTitle": "RELOJ HOMBRE TISSOT T-RACE T141.417.27.041.00",
+    "vendor": "TISSOT",
+    "sku": "T141.417.27.041.00",
+    "price": 3468000,
+    "compareAtPrice": 4161600,
+    "available": true,
+    "gender": "hombre",
+    "description": "Tissot es la única marca en el mundo que combina artesanía de precisión Suiza y la innovación con calidad excepcional a un precio justo.",
+    "specs": [],
+    "warranty": null,
+    "tags": [
+      "Hombre",
+      "Para el",
+      "para hombre",
+      "reloj de hombre",
+      "RELOJ TISSOT",
+      "TISSOT",
+      "TISSOT DE HOMBRE"
+    ],
+    "images": [
+      {
+        "src": "/products/reloj-hombre-tissot-t-race-t141-417-27-041-00-1.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/TissotT-Race45mmT141.417.27.041.00_2.webp?v=1775417001"
+      },
+      {
+        "src": "/products/reloj-hombre-tissot-t-race-t141-417-27-041-00-2.webp",
+        "width": 800,
+        "height": 1040,
+        "remote": "https://cdn.shopify.com/s/files/1/0577/9937/6943/files/23.webp?v=1775510716"
+      }
+    ],
+    "sourceUrl": "https://www.killaclock.com.co/products/reloj-hombre-tissot-t-race-t141-417-27-041-00"
   }
 ]
